@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Core\\":"app/code/Core",
+      "":"app/code"
+    }
+  },
+  "require": {
+    "php-di/php-di": "^6.0"
+  }
+}
